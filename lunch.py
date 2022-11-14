@@ -5,10 +5,9 @@ ok = [
     'malamamahlas',
     'life alive',
     'shy bird',
-    'flour',
-    'saloniki',
     'student center',
-    'al\'s'
+    'mae',
+    'stata'
 ]
 
 from random import shuffle
